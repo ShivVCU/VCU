@@ -1,2 +1,2 @@
 # VCU
-Intro to programing VCU 
+Intro to programing VCU!!
